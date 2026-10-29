@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="EasyShop.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:EasyShop.Views"
+    Title="EasyShop">
+
+    <TabBar>
+        <ShellContent
+            Title="Produtos"
+            ContentTemplate="{DataTemplate views:ProductsPage}"
+            Route="products" />
+        <ShellContent
+            Title="Clientes"
+            ContentTemplate="{DataTemplate views:CustomersPage}"
+            Route="customers" />
+    </TabBar>
+
+</Shell>
