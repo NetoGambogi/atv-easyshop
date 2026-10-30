@@ -9,13 +9,12 @@ Este é um protótipo de mini e-commerce que usa **dois paradigmas de banco de d
 
 ## 👥 Integrantes
 
-- _Nome completo do integrante 1_
-- _Nome completo do integrante 2_
-- _Nome completo do integrante 3 (se trio)_
+- _Luis Antônio Gambogi Ferreira Neto_
+- _Yago Cesar Chagas Lima_
 
 ## 🎬 Vídeo de demonstração
 
-_link do YouTube / Google Drive_
+_[link do YouTube / Google Drive](https://www.youtube.com/shorts/ljdT_ehWVUo)_
 
 ## 📸 Telas
 
