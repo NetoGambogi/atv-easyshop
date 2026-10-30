@@ -14,7 +14,7 @@ Este é um protótipo de mini e-commerce que usa **dois paradigmas de banco de d
 
 ## 🎬 Vídeo de demonstração
 
-_[link do YouTube / Google Drive](https://www.youtube.com/shorts/ljdT_ehWVUo)_
+_[Link do YouTube](https://www.youtube.com/shorts/ljdT_ehWVUo)_
 
 ## 📸 Telas
 
